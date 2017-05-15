@@ -1,5 +1,5 @@
 {
-    "name": "na3api/BinaryReader",
+    "name": "na3api/binary_reader",
     "description": "Binary files decoder",
     "license": "MIT",
     "keywords": ["binary_reader"],
