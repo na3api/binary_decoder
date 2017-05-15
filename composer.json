@@ -1,0 +1,21 @@
+{
+    "name": "na3api/BinaryReader",
+    "description": "Binary files decoder",
+    "license": "MIT",
+    "keywords": ["binary_reader"],
+    "authors": [
+        {
+            "name": "Nazar Shershin",
+            "email": "na3api@bigmir.net"
+        }
+    ],
+    "require": {},
+    "require-dev": {
+        "phpunit/phpunit": "4.0.*"
+    },
+    "autoload": {
+        "psr-4": {
+            "na3api\\BinaryReader\\": "src"
+        }
+    }
+}
